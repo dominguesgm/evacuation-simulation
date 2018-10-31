@@ -1,4 +1,4 @@
-##A non-deterministic multi-agent approach for emergency evacuation simulation
+#A non-deterministic multi-agent approach for emergency evacuation simulation
 
 An emergency evacuation implies moving a group of people away from a life-threatening hazard. The efficiency with which the population evacuates is crucial for minimizing the number of fatalities and injuries. Evacuating a population is not, however, a straightforward process. Different people behave diversly in face of a threat, thus knowing how these behaviours affect the overall operation is necessary for defining an efficient evacuation plan. Individual psychological and physical attributes, such as area knowledge, altruism, mobility, panic, patience and dependency, influence the behaviour and may vary over time.
 
